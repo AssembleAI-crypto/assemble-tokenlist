@@ -1,6 +1,6 @@
 {
   "name": "Assemble AI Token List",
-  "logoURI": "https://s3.coinmarketcap.com/static-gravity/image/d34420ceb6fb4faeb67c60dc3e35e593.png",
+  "logoURI": "https://raw.githubusercontent.com/AssembleAI-crypto/assemble-tokenlist/main/logo/asm-logo.png",
   "keywords": ["ASM", "AssembleAI", "Assemble AI", "Assemble protocol", "AssembleProtocol"],
   "timestamp": "2025-06-16T15:00:00Z",
   "version": { "major": 1, "minor": 0, "patch": 0 },
@@ -11,8 +11,7 @@
       "name": "ASSEMBLE",
       "symbol": "ASM",
       "decimals": 18,
-      "logoURI": "https://s3.coinmarketcap.com/static-gravity/image/d34420ceb6fb4faeb67c60dc3e35e593.png",
-      "tags": ["ai-big-data"]
+      "logoURI": "https://raw.githubusercontent.com/AssembleAI-crypto/assemble-tokenlist/main/logo/asm-logo.png"
     },
     {
       "chainId": 8453,
@@ -20,14 +19,7 @@
       "name": "ASSEMBLE",
       "symbol": "ASM",
       "decimals": 18,
-      "logoURI": "https://s3.coinmarketcap.com/static-gravity/image/d34420ceb6fb4faeb67c60dc3e35e593.png",
-      "tags": ["ai-big-data"]
+      "logoURI": "https://raw.githubusercontent.com/AssembleAI-crypto/assemble-tokenlist/main/logo/asm-logo.png"
     }
-  ],
-  "tags": {
-    "ai-big-data": {
-      "name": "AI & Big Data",
-      "description": "AI Agent Revolutionizing Web3 Journalism."
-    }
-  }
+  ]
 }
